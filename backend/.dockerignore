@@ -1,0 +1,26 @@
+# Dependencies
+node_modules
+
+# Logs
+npm-debug.log
+yarn-error.log
+*.log
+
+# Environment files
+.env
+.env.test
+
+# Coverage
+coverage
+
+# IDE/Editor
+.idea
+.vscode
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Docker files
+Dockerfile
+docker-compose*.yml
